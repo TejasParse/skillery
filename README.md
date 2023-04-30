@@ -4,7 +4,7 @@ Skillery is a dream which is envisioned to make programming education easy and a
 
 ---
 ## Project link
-- ### https://github.com/abhay2002-pro/Skillery-working
+- ### https://github.com/TejasParse/skillery
 ## Contributors
 - ### Tejas Ajay Parse	  S20200010209
 - ### Akanksha Joshi	    S20200020267
