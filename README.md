@@ -52,7 +52,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/abhay2002-pro/Skillery-working.git
+    $ git clone https://github.com/TejasParse/skillery
     $ cd Skillery-working
     $ npm install
 
