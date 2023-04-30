@@ -908,5 +908,6 @@ app.post('/get-result',(req,res)=>{
   res.status(200).json(eval(code,lang));
 })
 
+const PORT = process.env.PORT || 8080
 
-server.listen(8080);
+server.listen(PORT);
